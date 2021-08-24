@@ -1,6 +1,6 @@
 public class MiClase {
-	private int x;
-	private int y;
+	protected int x;
+	protected int y;
 	
 	public MiClase() {
 		x = 0;
